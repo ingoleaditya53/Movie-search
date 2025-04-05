@@ -58,7 +58,7 @@
   border-top-left-radius: 6px;
   border-bottom-left-radius: 6px;
    border: 1px solid rgb(22, 22, 30);
-  color: white;
+  color: black;
   margin-bottom: 0; /* ✅ Ensure no vertical spacing */
 }
 
